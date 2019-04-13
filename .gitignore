@@ -8,6 +8,12 @@
 .buildlog/
 .history
 .svn/
+*.dart.js
+*.info.json
+*.js
+*.js_
+*.js.deps
+*.js.map
 
 # IntelliJ related
 *.iml
